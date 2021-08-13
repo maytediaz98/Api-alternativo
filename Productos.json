@@ -1,0 +1,86 @@
+{"Listado de productos": [
+
+{ 
+    "Categoria": " Carteras      ",
+    "Costo":  " $599  ",
+    "ID": " C0001    ",
+    "Color": "   Marrón",
+    "Nombre": "Cartera de Fiesta"
+},
+{
+    
+    "Categoria": " Carteras      ",
+    "Costo":  " $599  ",
+    "ID": " C0002    ",
+    "Color": "Negro",
+    "Nombre":"Cartera de Fiesta"
+
+},
+{
+    
+    "Categoria": " Carteras",
+    "Costo":  " $599",
+    "ID": " C0003",
+    "Color": "Beige",
+    "Nombre":"Cartera de Fiesta"
+},
+{
+    
+    "Categoria": " Accesorios de pelo ",
+    "Costo":  " $299  ",
+    "ID": " P0001    ",
+    "Color": "  Rojo ",
+    "Nombre": "Vincha terciopelo"
+},
+{
+"Categoria": " Accesorios de pelo ",
+    "Costo":  " $299  ",
+    "ID": " P0002   ",
+    "Color": "Negro ",
+    "Nombre": "Vincha terciopelo"
+},
+{
+"Categoria": " Accesorios de pelo ",
+    "Costo":  " $299  ",
+    "ID": " P0003   ",
+    "Color": " Plateada ",
+    "Nombre": "Vincha terciopelo"  
+},
+{
+"Categoria": " Accesorios de pelo ",
+    "Costo":  " $100  ",
+    "ID": " C0001    ",
+    "Color": " Lila ",
+    "Nombre": "Colero"
+},
+{  "Categoria": " Accesorios de pelo ",
+   "Costo":  " $100  ",
+   "ID": " C0002    ",
+ "Color": "Rosa ",
+  "Nombre": "Colero"
+ },
+{
+   "Categoria": " Accesorios de pelo ",
+     "Costo":  " $100  ",
+      "ID": " C0003   ",
+     "Color": " Amarillo ",
+    "Nombre": "Colero"
+  }
+        
+    
+
+
+
+
+
+]
+
+
+
+
+
+
+
+
+
+}

@@ -1,0 +1,49 @@
+{"Datos de Usuarios": [
+
+{ "CI": "33889925",
+  "Nombre": "Andrea Sosa",
+  "Teléfono": "099825962",
+  "Dirección":"18 de Julio 1985"
+
+},
+{
+    "CI": "55895995",
+    "Nombre": "Ana Lopéz",
+    "Teléfono": "099555196",
+    "Dirección":"18 de Julio 1885"
+  
+},
+{
+"CI": "42543855",
+"Nombre": "Susana Reyes",
+"Teléfono": "099825197",
+"Dirección":"18 de Julio 915"
+},
+{
+    "CI": "49876325",
+    "Nombre": "Sara Fernandez",
+    "Teléfono": "099825198",
+    "Dirección":"18 de Julio 1389"
+  
+},
+{
+    "CI": "16508975",
+    "Nombre": "Mirtha simposon",
+    "Teléfono": "099825199",
+    "Dirección":"18 de Julio 1595"
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+    ]
+}
